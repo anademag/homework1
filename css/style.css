@@ -10,10 +10,10 @@ h1 {
   font-family: 'Raleway';
 }
 .forever {
-  font-family: 'Monospace';
+  font-family: 'Times New Roman';
 }
 h2 {
-  color: #333333;
+  color: gray;
   font-size: 36px;
   font-family: 'Oswald', sans-serif;
   font-weight: 600;
@@ -27,4 +27,8 @@ body {
   font-weight: 300;
   text-transform: none;
   line-height: 26px;
+}
+img {
+  display: block;
+  margin: auto;
 }
